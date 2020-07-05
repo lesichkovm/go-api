@@ -1,3 +1,3 @@
-module github.com/lesichkovm/go-api
+module github.com/lesichkovm/goapi
 
 go 1.14
