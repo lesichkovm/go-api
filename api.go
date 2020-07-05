@@ -1,4 +1,4 @@
-package api
+package github.com/lesichkovm/go-api
 
 // Response defines an response for the API
 type Response struct {
