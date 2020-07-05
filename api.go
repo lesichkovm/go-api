@@ -1,5 +1,11 @@
 package api
 
+import (
+	"encoding/json"
+	"net/http"
+	"strings"
+)
+
 // Response defines an response for the API
 type Response struct {
 	Status  string                 `json:"status"`
